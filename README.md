@@ -7,6 +7,8 @@
 
 PromptlyTextArea: Plays on providing text prompts swiftly.
 
+PromptlyTextArea is an Angular/React component that can be embedded directly into HTML5 without any server settings needed.
+
 **UNDER CONSTRUCTION.**
 
 ## Usage

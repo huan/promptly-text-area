@@ -33,6 +33,7 @@ TBW
 
 ## Resources
 
+- <https://github.com/miki995/ngx-monaco-editor-v2> - Monaco Editor component for Angular 2 and Above
 - <https://stackoverflow.com/questions/76811609/monaco-editor-how-to-work-with-suggestions>
 - <https://microsoft.github.io/monaco-editor/typedoc/interfaces/editor.ISuggestOptions.html>
 - <https://github.com/microsoft/monaco-editor/issues/1850>

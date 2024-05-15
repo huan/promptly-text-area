@@ -29,8 +29,13 @@ PromptlyTextArea is a ... the difference between PromptlyTextArea and SmartTextA
 
 TBW
 
+- Chrome Plugin v.s. OAuth (?)
+
 ## Resources
 
+- <https://stackoverflow.com/questions/76811609/monaco-editor-how-to-work-with-suggestions>
+- <https://microsoft.github.io/monaco-editor/typedoc/interfaces/editor.ISuggestOptions.html>
+- <https://github.com/microsoft/monaco-editor/issues/1850>
 - <https://github.com/jkhaui/predictable> - A content editable text editor with predictive typeahead, similar to Gmail's Smart Compose feature.
 - <https://stackoverflow.com/questions/53374806/how-to-build-a-smart-compose-like-gmail-possible-in-a-textarea> - How to build a Smart Compose like Gmail? Is it possible in a text area?
 - <https://phuoc.ng/collection/mirror-a-text-area/implement-inline-input-suggestions/> - Implement inline input suggestions
